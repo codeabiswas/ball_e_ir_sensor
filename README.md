@@ -1,6 +1,6 @@
 # Infrared Sensor Processing for Ball-E
 
-This repository contains all the code and related files pertaining to Infrared (IR) sensorprocessing related aspects for the Bi-Axial Autonomous Lacrosse Learning Evaluator (Ball-E).
+This repository contains all the code and related files pertaining to Infrared (IR) sensor processing related aspects for the Bi-Axial Autonomous Lacrosse Learning Evaluator (Ball-E).
 
 ## Pre-requisites
 * `Python 3.6.9`
